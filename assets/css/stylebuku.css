@@ -10,7 +10,7 @@ body {
 	margin: 20px auto;
 }
 #wrapper header {
-	background: #0c2d57;
+	background: #232323;
 	padding: 20px;
 }
 #wrapper header hgroup {
@@ -38,7 +38,7 @@ body {
 	clear: both;
 }
 footer {
-	background: #fc6736;
+	background: #232323;
 	padding: 20px;
 }
 footer a {

@@ -19,5 +19,12 @@ class Web extends CI_Controller{
   $this->load->view('v_about', $data);
   $this->load->view('v_footer', $data);
   }
+ public function contact()
+  {
+  $data['judul'] = "Halaman Hubungi Kami";
+  $this->load->view('v_header', $data);
+  $this->load->view('v_contact', $data);
+  $this->load->view('v_footer', $data);
+  }
 
 }

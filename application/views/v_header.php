@@ -21,6 +21,8 @@ CodeIgniter</h3>
 base_url().'web' ?>">Home</a></li>
  <li><a href="<?php echo
 base_url().'web/about' ?>">About</a></li>
+ <li><a href="<?php echo
+base_url().'web/contact' ?>">Hubungi Kami</a></li>
  </ul>
  </nav>
  <div class="clear"></div>
